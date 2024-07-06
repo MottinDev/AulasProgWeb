@@ -1,0 +1,119 @@
+{
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Notebook",
+        "quantidade": 10,
+        "preco": 2500.00
+      },
+      {
+        "id": 2,
+        "nome": "Mouse",
+        "quantidade": 50,
+        "preco": 50.00
+      },
+      {
+        "id": 3,
+        "nome": "Teclado",
+        "quantidade": 30,
+        "preco": 100.00
+      },
+      {
+        "id": 4,
+        "nome": "Monitor",
+        "quantidade": 20,
+        "preco": 600.00
+      },
+      {
+        "id": 5,
+        "nome": "Impressora",
+        "quantidade": 15,
+        "preco": 800.00
+      },
+      {
+        "id": 6,
+        "nome": "Cadeira de Escritório",
+        "quantidade": 25,
+        "preco": 300.00
+      },
+      {
+        "id": 7,
+        "nome": "Mesa de Escritório",
+        "quantidade": 10,
+        "preco": 700.00
+      },
+      {
+        "id": 8,
+        "nome": "Lâmpada LED",
+        "quantidade": 100,
+        "preco": 20.00
+      },
+      {
+        "id": 9,
+        "nome": "Papel A4",
+        "quantidade": 500,
+        "preco": 15.00
+      },
+      {
+        "id": 10,
+        "nome": "Caneta",
+        "quantidade": 200,
+        "preco": 2.00
+      },
+      {
+        "id": 11,
+        "nome": "Caderno",
+        "quantidade": 75,
+        "preco": 25.00
+      },
+      {
+        "id": 12,
+        "nome": "Calculadora",
+        "quantidade": 40,
+        "preco": 60.00
+      },
+      {
+        "id": 13,
+        "nome": "Grampeador",
+        "quantidade": 35,
+        "preco": 15.00
+      },
+      {
+        "id": 14,
+        "nome": "Fone de Ouvido",
+        "quantidade": 80,
+        "preco": 100.00
+      },
+      {
+        "id": 15,
+        "nome": "Webcam",
+        "quantidade": 45,
+        "preco": 150.00
+      },
+      {
+        "id": 16,
+        "nome": "Projetor",
+        "quantidade": 5,
+        "preco": 1200.00
+      },
+      {
+        "id": 17,
+        "nome": "Roteador Wi-Fi",
+        "quantidade": 60,
+        "preco": 200.00
+      },
+      {
+        "id": 18,
+        "nome": "Switch de Rede",
+        "quantidade": 15,
+        "preco": 350.00
+      },
+      {
+        "id": 19,
+        "nome": "Cabo HDMI",
+        "quantidade": 100,
+        "preco": 30.00
+      }
+    ]
+  }
+  
